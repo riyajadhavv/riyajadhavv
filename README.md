@@ -18,6 +18,7 @@ I build at the intersection of **Cloud Infrastructure** and **Artificial Intelli
 
 - 🏢 Currently: **Software Engineer Intern @ CloudHub, Netherlands** — automating AWS infra with Python & Terraform
 - 🎓 Final-year B.Tech in **Computer Science (AI & ML)** at VIIT Pune — CGPA: **9.47**
+- 🏆 Hackathon builder — DIPEX 2024 (VIIT) & Geeks for Geeks Hackathon
 - 🔭 Exploring: MLOps, LLM integrations, and cloud-native AI deployments
 - 📍 Based in **Pune, India**
 
@@ -50,20 +51,35 @@ I build at the intersection of **Cloud Infrastructure** and **Artificial Intelli
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **☁️ AWS Cloud Automation** | Automated AWS provisioning with Terraform IaC — zero drift, faster deployments | Python, AWS, Terraform |
-| **🎙️ AI Voice Agent** | Outbound calling agent with Eleven Labs AI + Twilio telephony | Python, Eleven Labs, Twilio |
-| **📚 CodeVenture** | AI-driven coding learning platform with personalised paths — DIPEX 2024 | ReactJS, MongoDB, Gemini API |
-| **🎮 CodeFun** | Gamified coding platform for kids — GFG Hackathon | React/TSX, Gemini API |
+**☁️ AWS Cloud Infrastructure Automation**
+> Automated end-to-end AWS resource provisioning using Python scripts and Terraform IaC — consistent environments across dev/staging/prod, zero configuration drift.
+> `Python` `AWS EC2/S3/IAM` `Terraform`
+
+---
+
+**🎙️ AI Voice Agent — Eleven Labs × Twilio**
+> Outbound AI calling agent that delivers automated tech news updates using Eleven Labs' conversational AI voice synthesis integrated with Twilio's telephony platform.
+> `Python` `Eleven Labs API` `Twilio` `Cursor IDE`
+
+---
+
+**🏆 CodeVenture — AI Learning Platform `DIPEX 2024 · VIIT National Conference`**
+> Built at VIIT's national-level DIPEX 2024 conference. An AI-driven coding education platform with Gemini API-powered personalised learning paths that adapt to individual user progress and skill levels.
+> `ReactJS` `MongoDB` `Gemini API`
+
+---
+
+**🏆 CodeFun — Gamified Kids Coding Platform `Geeks for Geeks Hackathon`**
+> Built for the GFG Hackathon. An interactive, gamified platform teaching kids how to code in a fun and rewarding way — with levels, challenges, and AI-powered hints.
+> `React/TSX` `Gemini API`
 
 ---
 
 ### 📊 GitHub Activity
 
-![Riya's GitHub Stats](https://streak-stats.demolab.com?user=riyajadhavv&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Riya's Streak](https://streak-stats.demolab.com?user=riyajadhavv&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyajadhavv&theme=tokyonight)
 
